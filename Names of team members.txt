@@ -1,4 +1,8 @@
 Emmanuel Oraegbu - just passing through.
 Solomon Nwokoro
 Idongesit Bokeimei
+
 test
+
+this concludes the session on pushing and pulling to the git repository.
+
